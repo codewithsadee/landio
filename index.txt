@@ -1,0 +1,191 @@
+Landio - Landing page
+
+
+
+# HEADER
+
+alt = Landio logo
+
+<ion-icon name="menu-outline"></ion-icon>
+
+Home
+Features
+Pricing
+Blog
+Contact Us
+Log in
+Register
+
+
+
+# HERO
+
+Creative Landing Page
+
+A creative & modern landing page with Landio template & We love make things amazing.
+
+🥳 Nemo enim ipsam voluptatem quia voluptas sit aspernatur that is fugit.
+
+placeholder = Enter Your Email
+
+Subscribe
+
+alt = Hero image
+
+
+
+# ABOUT
+
+<ion-icon name="cube"></ion-icon>
+
+Why Choose Us ?
+
+Nam libero tempore cum soluta as nobis est eligendi optio cumque nihile impedite quo minus id quod maxime.
+
+Learn More
+
+<ion-icon name="thumbs-up"></ion-icon>
+
+Esay To Use
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
+
+<ion-icon name="trending-up"></ion-icon>
+Grow Your Revenue
+
+<ion-icon name="shield-checkmark"></ion-icon>
+Analytics Security
+
+<ion-icon name="server"></ion-icon>
+Data Privacy
+
+
+
+# FEATURES
+
+Awesome Features
+
+Et harum quidem rerum facilis est et expedita distinctio nam libero tempore cum soluta nobis eligendi cumque.
+
+alt = illustration art
+
+<ion-icon name="sparkles"></ion-icon>
+CREATIVE FEATURES
+
+Build community & conversion with our suite of social tool
+
+Temporibus autem quibusdam et aut officiis debitis aut rerum a necessitatibus saepe eveniet ut et voluptates repudiandae sint molestiae non recusandae itaque.
+
+<ion-icon name="layers-outline"></ion-icon>
+Donec pede justo fringilla vel nec.
+
+<ion-icon name="megaphone-outline"></ion-icon>
+Cras ultricies mi eu turpis hendrerit fringilla.
+
+Read More
+Buy Now
+
+
+We do the work you stay focused on your customers.
+
+<ion-icon name="rocket-outline"></ion-icon>
+
+<ion-icon name="wifi-outline"></ion-icon>
+
+
+
+# BLOG
+
+Latest News
+
+Et harum quidem rerum facilis est et expedita distinctio nam libero tempore cum soluta nobis eligendi cumque.
+
+alt = Best Traveling Place
+
+<ion-icon name="calendar-outline"></ion-icon>
+april 10 2021
+
+<ion-icon name="person-outline"></ion-icon>
+admin
+
+Best Traveling Place
+
+Integer ante arcu accumsan a consectetuer eget posuere mauris praesent adipiscing phasellus ullamcorper ipsum rutrum punc.
+
+Learn More
+<ion-icon name="chevron-forward-outline"></ion-icon>
+
+alt = Private Meeting Room
+Private Meeting Room
+
+alt = The Best Business Ideas
+The Best Business Ideas
+
+
+
+# CONTACT
+
+Contact Us
+
+Et harum quidem rerum facilis est et expedita distinctio nam libero tempore cum soluta nobis eligendi cumque.
+
+Name*
+placeholder = Enter Your Name
+
+Email*
+placeholder = Enter Your Email
+
+Message*
+placeholder = Type Your Message
+
+Send Message
+<ion-icon name="paper-plane-outline"></ion-icon>
+
+<ion-icon name="mail-outline"></ion-icon>
+: support@website.com
+
+<ion-icon name="globe-outline"></ion-icon>
+: www.website.com
+
+<ion-icon name="call-outline"></ion-icon>
+: (+001) 123 456 7890
+
+<ion-icon name="time-outline"></ion-icon>
+: 9:00 AM - 6:00 PM
+
+<ion-icon name="location-outline"></ion-icon>
+: 1644 Deer Ridge Drive Rochelle Park, NJ 07662
+
+
+
+# FOOTER
+
+alt = Landio logo
+
+Cras ultricies mi eu turpis sit hendrerit fringilla vestibulum ante ipsum primis in faucibus ultrices posuere cubilia.
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+
+ABOUT US
+Works
+Strategy
+Releases
+Press
+Mission
+
+CUSTOMERS
+Tranding
+Popular
+Customers
+Features
+
+SUPPORT
+Developers
+Support
+Customer Service
+Get Started
+Guide
+
+&copy; 2022 codewithsadee. All Right Reserved
